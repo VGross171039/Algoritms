@@ -1,0 +1,5 @@
+Дополнительные материалы:
+
+https://www.code.mu/ru/php/manual/array/count/ Функция Count
+https://www.code.mu/ru/php/manual/array/array_splice/ Функция Array_splice
+https://www.code.mu/ru/php/manual/array/array_push/ Функция Array_push

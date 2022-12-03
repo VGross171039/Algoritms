@@ -1,0 +1,8 @@
+sort() — Сортирует массив по возрастанию
+https://www.php.net/manual/ru/function.sort.php
+
+count($array) - Подсчитывает количество элементов массива
+https://www.php.net/manual/ru/function.count.php
+
+floor() — Округляет дробь в меньшую сторону
+https://www.php.net/manual/ru/function.floor.php
