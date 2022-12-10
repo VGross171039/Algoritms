@@ -34,11 +34,4 @@
 
           <?php if ($_SERVER["REQUEST_URI"] != '/') :?>
           <div class="col-100">
-            <?php if (preg_match("/sample/i", $url) or preg_match("/tasks/i", $url)) :?>
-            <div class="testcode-wrap"></div>
-            <?php else:?>
-            <div class="testcode-wrap">
-              <a href="sample/">Образец</a><span>|</span><a href="tasks/">Упражнения</a>
-            </div>
-            <?php endif;?>
             <?php endif;?>
